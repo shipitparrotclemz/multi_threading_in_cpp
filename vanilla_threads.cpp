@@ -13,7 +13,7 @@ void mockDatabaseCall() {
      */
     using namespace std::literals::chrono_literals;
     std::cout << "database call started on second thread. Second thread id: " << std::this_thread::get_id() << std::endl;
-    std::this_thread::sleep_for(1s);
+    std::this_thread::sleep_for(3s);
     std::cout << "database call completed on second thread" << std::endl;
 }
 
