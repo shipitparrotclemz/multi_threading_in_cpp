@@ -1,0 +1,14 @@
+//
+// Created by Goh Chang Ming Clement on 3/12/23.
+//
+
+#ifndef MULTITHREADINGPRACTICE_VANILLA_THREADS_H
+#define MULTITHREADINGPRACTICE_VANILLA_THREADS_H
+
+
+class vanilla_threads {
+
+};
+
+
+#endif //MULTITHREADINGPRACTICE_VANILLA_THREADS_H
